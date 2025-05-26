@@ -1,0 +1,9 @@
+stdcan_base\retarget_io.o: D:\Keil_v5\PACK\Keil\ARM_Compiler\1.4.0\Source\retarget_io.c
+stdcan_base\retarget_io.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+stdcan_base\retarget_io.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+stdcan_base\retarget_io.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+stdcan_base\retarget_io.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+stdcan_base\retarget_io.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+stdcan_base\retarget_io.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\rt_sys.h
+stdcan_base\retarget_io.o: .\RTE\_stdcan_base\RTE_Components.h
+stdcan_base\retarget_io.o: D:\Keil_v5\PACK\Keil\ARM_Compiler\1.4.0\Include\EventRecorder.h
